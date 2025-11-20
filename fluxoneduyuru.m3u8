@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:11.400000,
+fluxoneduyuru0.ts
+#EXTINF:5.700000,
+fluxoneduyuru1.ts
+#EXTINF:5.700000,
+fluxoneduyuru2.ts
+#EXTINF:5.700000,
+fluxoneduyuru3.ts
+#EXTINF:5.700000,
+fluxoneduyuru4.ts
+#EXTINF:1.833333,
+fluxoneduyuru5.ts
+#EXT-X-ENDLIST
